@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    color: white;
+    z-index:22;
+}
+h4{
+    color: white;
+ 
+
+}
+video{
+    width: 100%;
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+.owl-carousel{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+}
